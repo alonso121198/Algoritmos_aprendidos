@@ -6,7 +6,7 @@
 
 - Ecuacion : $$x_n = rx_n(1-x_n)$$
 
-- codigo : ![](./CodeFeigenbaum/Feigenbaum.py)
+- [codigo](./CodeFeigenbaum/Feigenbaum.py)
 
 - [Video](https://www.youtube.com/watch?v=ovJcsL7vyrk&t=2s)
 
@@ -14,4 +14,4 @@
 
 ### Regresion Lineal 
 
-- codigo ![](./lineal/linearRegressionAlgorithm.ipynb)
+- [codigo](./lineal/linearRegressionAlgorithm.ipynb)
