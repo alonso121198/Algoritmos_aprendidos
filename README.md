@@ -4,8 +4,7 @@
 
 - Mas sobre la ecuacion [Ecuacion de Feigembaum:](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_log%C3%ADstica)
 
-- Ecuacion :
-$$ x_n = rx_n(1-x_n)$$
+- Ecuacion : <img src="https://latex.codecogs.com/gif.latex?x_n=rx_n(1-x_n)" /> 
 
 - [codigo](./CodeFeigenbaum/Feigenbaum2.py)
 
