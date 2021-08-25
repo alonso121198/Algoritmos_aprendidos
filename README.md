@@ -50,7 +50,7 @@
 
 ### Integración Numerica II Y Derivadas
 
-- [codigo](./Curso_Metodos_Numericos_2020_I/codigos_despues_del_parcial/Integracion_numerica_II_ y_derivadas.ipynb)
+- [codigo](./Curso_Metodos_Numericos_2020_I/codigos_despues_del_parcial/Integracion_numerica_II_y_derivadas.ipynb)
 
 ### Problemas con condiciones de Frontera
 
